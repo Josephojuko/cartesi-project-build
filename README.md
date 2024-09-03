@@ -1,1 +1,3 @@
-# savings goal app: An app that helps and encourages saving cartesi-project-build
+# savings goal app: An app that helps and encourages financial investment and saving
+
+# savings goals
